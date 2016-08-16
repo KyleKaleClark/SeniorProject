@@ -2,6 +2,8 @@ import java.awt.Graphics;
 
 import javax.swing.ImageIcon;
 
+//I'm just memeing
+
 public class Log {
 	private int xLoc;
 	private int yLoc;;
